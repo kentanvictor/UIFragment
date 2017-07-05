@@ -8,4 +8,13 @@
         android:layout_height="wrap_content"
         android:hint="@string/crime_title_hint"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/but1"
+        android:layout_gravity="center"
+        android:text="@string/but1"
+        android:gravity="center"
+        android:textSize="20sp"
+        />
 </LinearLayout>
